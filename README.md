@@ -27,9 +27,9 @@ The Power BI dashboard consists of the following functional views:
 - **Excel/CSV** – Data sourcing and preprocessing.  
 
 ## Outcome  
-This **customized Power BI dashboard** empowered AtliQ Hardware to:  
-Make **data-driven decisions** based on real-time insights.  
-Enhance **cross-departmental visibility** into sales trends.  
-Achieve **operational efficiency** and cost savings.  
-Support strategic planning for **business growth**.  
+- This **customized Power BI dashboard** empowered AtliQ Hardware to:  
+- Make **data-driven decisions** based on real-time insights.  
+- Enhance **cross-departmental visibility** into sales trends.  
+- Achieve **operational efficiency** and cost savings.  
+- Support strategic planning for **business growth**.  
 
